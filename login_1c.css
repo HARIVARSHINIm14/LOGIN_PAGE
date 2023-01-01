@@ -1,0 +1,38 @@
+body{
+   /* background-image: url(https://images.unsplash.com/photo-1509131227506-31e070eb9bec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+   */
+   background-image: url('My\ Drive.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 500px;
+}
+    
+label{
+    color: rgb(244, 247, 247);
+    font-family: unset;
+}
+h3{
+    color: rgb(244, 247, 247);
+    font-family: sans-serif;
+}
+div{
+    width: 260px;
+    height: 250px;
+    background-color: rgb(255, 255, 255,0.1);
+    text-align: center;
+    padding: 5px;
+    border-radius: 4px;
+    backdrop-filter: blur(30px);
+    background-clip: padding-box;
+    box-shadow: 10px 10px 10px rgb(45,58,68,0.30);
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+#st{
+    border-radius: 4px;
+}
+
+
